@@ -12,13 +12,13 @@ This code implements a Long Short-Term Memory RNN encoder and decoder with atten
 
 # Installation
 1. Make sure you have these running on your system:  
-a. Python 3
-b. PyTorch
-c. NumPy
-d. Matplotlib
-e. NLTK (Natural Language Toolkit)
-f. GitHub
-Install the dependencies using: pip install torch numpy matplotlib nltk
+a. Python 3  
+b. PyTorch  
+c. NumPy  
+d. Matplotlib  
+e. NLTK (Natural Language Toolkit)  
+f. GitHub  
+Install the dependencies using: pip install torch numpy matplotlib nltk  
 
 2. Follow the proper steps in the INSTALL_NOTES.md file
 
