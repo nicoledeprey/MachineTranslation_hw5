@@ -1,4 +1,4 @@
-# Recurrent Neural Network with Attention mechanism
+# Recurrent Neural Network with Attention Mechanism and Batch Training and Beam Search
 # Overview
 This code implements a Long Short-Term Memory RNN encoder and decoder with attention. It does not make use of the pytorch nn.LSTM function and instead implements the formulas. In addition to the implementation, it contains a write up of the visualization for the attention mechanism and discusses selected plots.
 
@@ -82,7 +82,7 @@ Termination:
 
 
 # Results
-The code results should produce a BLEU Score of 0.4617316003241794.
+The code results should produce a BLEU Score of 0.4617316003241794.  
 This sequence-to-sequence with attention model offers a starting point for machine translation tasks and other applications where both the input and output are sequences. Users are encouraged to adapt and expand upon the base code to fit specific needs and challenges.
 
 Impact on Speed:
