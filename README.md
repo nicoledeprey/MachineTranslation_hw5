@@ -82,7 +82,7 @@ Termination:
 
 
 # Results
-The code results should produce a BLEU Score of 0.4617316003241794.  
+The code results should produce a BLEU Score of 0.5260245245100895.  
 This sequence-to-sequence with attention model offers a starting point for machine translation tasks and other applications where both the input and output are sequences. Users are encouraged to adapt and expand upon the base code to fit specific needs and challenges.
 
 Impact on Speed:
